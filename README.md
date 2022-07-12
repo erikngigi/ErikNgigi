@@ -1,4 +1,5 @@
-![github-read-me-profile](https://user-images.githubusercontent.com/50109792/178514559-fa674f32-e073-4a9e-b4c4-32668b5e2baf.jpg)
+![github-read-me-profile-2](https://user-images.githubusercontent.com/50109792/178515881-32bc3d5a-a17b-4d66-acc8-4edcf5d912fd.jpg)
+
 <h1 align="center">Hi 👋, I'm Eric Moses Ngigi</h1>
 
 <h3 align="center">A Front-End Developer from Kenya</h3>
