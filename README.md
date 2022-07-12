@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Moses Ngigi</h1>
-<h3 align="center">A front-end developer from Kenya</h3>
+<h3 align="center">A Front-End Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikngigi&label=Profile%20views&color=0e75b6&style=flat" alt="erikngigi" /> </p>
 
