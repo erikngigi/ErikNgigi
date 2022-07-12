@@ -1,4 +1,4 @@
-![github-read-me-profile-2](https://user-images.githubusercontent.com/50109792/178515881-32bc3d5a-a17b-4d66-acc8-4edcf5d912fd.jpg)
+![wp2465949-javascript-wallpapers](https://user-images.githubusercontent.com/50109792/178517157-e3af5516-8497-4b4d-8650-0760d258a4d5.png)
 
 <h1 align="center">Hi 👋, I'm Eric Moses Ngigi</h1>
 
