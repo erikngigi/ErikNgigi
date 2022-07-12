@@ -1,4 +1,6 @@
+![github-read-me-profile](https://user-images.githubusercontent.com/50109792/178514559-fa674f32-e073-4a9e-b4c4-32668b5e2baf.jpg)
 <h1 align="center">Hi 👋, I'm Eric Moses Ngigi</h1>
+
 <h3 align="center">A Front-End Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikngigi&label=Profile%20views&color=0e75b6&style=flat" alt="erikngigi" /> </p>
