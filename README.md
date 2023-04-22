@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Eric Moses Ngigi</h1>
+<h1 align="left">Hi 👋, I'm Eric Moses Ngigi</h1>
 
-<h3 align="center">I'm a Linux enthusiast and open-source advocate who is passionate about technology and the power of community-driven development. I believe that open-source software is the key to unlocking innovation and empowering individuals and organizations to achieve their goals.</h3>
+<h3 align="left">I'm a Linux enthusiast and open-source advocate who is passionate about technology and the power of community-driven development. I believe that open-source software is the key to unlocking innovation and empowering individuals and organizations to achieve their goals.</h3>
 
-<h1 align="center">🔭 What I do</h1>
+<h1 align="left">🔭 What I do</h1>
 
 <h3 align="left">Currently, I work as a [Your Job Title] at [Your Company], where I [Your Responsibilities]. I'm also an active contributor to several open-source projects, including [Project 1], [Project 2], and [Project 3]. In my free time, I enjoy experimenting with new technologies and building my own projects, such as [Your Personal Project].</h3>
 
