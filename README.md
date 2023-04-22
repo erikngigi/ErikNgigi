@@ -23,7 +23,7 @@
 
 <h2 align="left">📫 How to reach me</h2>
 <p align="left">
-  You can find me on <a href='https://linkedin.com/in/erik-ngigi' target='_blank'Linkedin</a>
+  You can find me on <a href='https://linkedin.com/in/erik-ngigi' target='_blank'</a>Linkedin
 </p>
 
 <h2 align="left">🤝 Collaboration</h2>
