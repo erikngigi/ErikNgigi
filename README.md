@@ -22,7 +22,7 @@
 + Web development and programming languages (e.g., Python, JavaScript, HTML/CSS)
 
 <h2 align="left">📫 How to reach me</h2>
-<p align="left>You can find me on ![LinkedIn](https://linkedin.com/in/erik-ngigi), Feel free to connect with me or send me a message!</p>
+<p align="left>You can find me on [LinkedIn](https://linkedin.com/in/erik-ngigi), Feel free to connect with me or send me a message!</p>
 
 <h2 align="left">🤝 Collaboration</h2>
 
