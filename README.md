@@ -1,21 +1,32 @@
-![wp2465949-javascript-wallpapers](https://user-images.githubusercontent.com/50109792/178517157-e3af5516-8497-4b4d-8650-0760d258a4d5.png)
-
 <h1 align="center">Hi 👋, I'm Eric Moses Ngigi</h1>
 
-<h3 align="center">A Front-End Developer from Kenya</h3>
+<h3 align="center">I'm a Linux enthusiast and open-source advocate who is passionate about technology and the power of community-driven development. I believe that open-source software is the key to unlocking innovation and empowering individuals and organizations to achieve their goals.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikngigi&label=Profile%20views&color=0e75b6&style=flat" alt="erikngigi" /> </p>
+- 🔭 What I do
 
-<p align="left"> <a href="https://twitter.com/erikngigi" target="blank"><img src="https://img.shields.io/twitter/follow/erikngigi?logo=twitter&style=for-the-badge" alt="erikngigi" /></a> </p>
+<h3 align="center">Currently, I work as a [Your Job Title] at [Your Company], where I [Your Responsibilities]. I'm also an active contributor to several open-source projects, including [Project 1], [Project 2], and [Project 3]. In my free time, I enjoy experimenting with new technologies and building my own projects, such as [Your Personal Project].</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 My Values
++ Openness and transparency
++ Collaboration and community
++ Continuous learning and improvement
++ Innovation and creativity
 
-- 📫 How to reach me **ericmosesngigi@gmail.com**
+- 💻 My skills
+
++ Linux administration and system architecture
++ Shell scripting and automation
++ Network and server security
++ Cloud computing and virtualization
++ Web development and programming languages (e.g., Python, JavaScript, HTML/CSS)
+
+- 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/erikngigi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erikngigi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+- 🤝 Collaboration
+
+I'm always looking for new opportunities to collaborate with like-minded individuals and organizations. If you're interested in working together on an open-source project or have an idea you'd like to discuss, please don't hesitate to reach out!
