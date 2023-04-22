@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋, I'm Eric Moses Ngigi</h2>
 
-<h4 align="left">I'm a Linux enthusiast and open-source advocate who is passionate about technology and the power of community-driven development. I believe that open-source software is the key to unlocking innovation and empowering individuals and organizations to achieve their goals.</h3>
+<p align="left">I'm a Linux enthusiast and open-source advocate who is passionate about technology and the power of community-driven development. I believe that open-source software is the key to unlocking innovation and empowering individuals and organizations to achieve their goals.</p>
 
 <h2 align="left">🔭 What I do</h2>
 
-<h4 align="left">Currently, I work as a [Your Job Title] at [Your Company], where I [Your Responsibilities]. I'm also an active contributor to several open-source projects, including [Project 1], [Project 2], and [Project 3]. In my free time, I enjoy experimenting with new technologies and building my own projects, such as [Your Personal Project].</h4>
+<p align="left">Currently, I work as a [Your Job Title] at [Your Company], where I [Your Responsibilities]. I'm also an active contributor to several open-source projects, including [Project 1], [Project 2], and [Project 3]. In my free time, I enjoy experimenting with new technologies and building my own projects, such as [Your Personal Project].</p>
 
 <h2 align="left">🌱 My Values</h2>
 
@@ -30,4 +30,4 @@
 
 <h2 align="left">🤝 Collaboration</h2>
 
-<h4 align="left">I'm always looking for new opportunities to collaborate with like-minded individuals and organizations. If you're interested in working together on an open-source project or have an idea you'd like to discuss, please don't hesitate to reach out!</h4>
+<p align="left">I'm always looking for new opportunities to collaborate with like-minded individuals and organizations. If you're interested in working together on an open-source project or have an idea you'd like to discuss, please don't hesitate to reach out!</p>
