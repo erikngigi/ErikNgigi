@@ -29,7 +29,7 @@ In summary, my primary focus is on learning and growing as a developer while con
 
 [![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-ngigi/)](https://www.linkedin.com/in/erik-ngigi/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericmosesngigi@gmail.com)](mailto:ericmosesngigi@gmail.com) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCF3GCqR1MYFdf-Jv9srtjDA)](https://www.youtube.com/channel/UCF3GCqR1MYFdf-Jv9srtjDA)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCF3GCqR1MYFdf-Jv9srtjDA)](https://www.youtube.com/channel/UCF3GCqR1MYFdf-Jv9srtjDA)  
 
 <h2 align="left">⚡ Languages & Technologies</h2>
 
