@@ -29,7 +29,15 @@ In summary, my primary focus is on learning and growing as a developer while con
 
 [![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-ngigi/)](https://www.linkedin.com/in/erik-ngigi/)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericmosesngigi@gmail.com)](mailto:ericmosesngigi@gmail.com)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
+
+<h2 align="left">⚡ Languages & Technologies</h2>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <h2 align="left">🤝 Collaboration</h2>
 
