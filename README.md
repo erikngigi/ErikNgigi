@@ -4,7 +4,11 @@
 
 <h2 align="left">🔭 What I do</h2>
 
-<p align="left">Currently, I work as a [Your Job Title] at [Your Company], where I [Your Responsibilities]. I'm also an active contributor to several open-source projects, including [Project 1], [Project 2], and [Project 3]. In my free time, I enjoy experimenting with new technologies and building my own projects, such as [Your Personal Project].</p>
+<p align="left">I'm currently focused on expanding my skills and contributing to the open source community. I'm particularly interested in Natural Language Processing in Artifical Inteligence, serverless computing, containerization and data management with analytics and I'm always looking for new projects to work on and collaborate with others.
+
+At the moment, I'm also on the lookout for job opportunities either as a Linux System Engineer or as a DevOps engineer. If you know of any openings that would be a good fit for my skills and experience, please feel free to reach out!
+
+In summary, my primary focus is on learning and growing as a developer while contributing to open source projects, and I'm actively seeking new job opportunities.</p>
 
 <h2 align="left">🌱 My Values</h2>
 
@@ -23,7 +27,7 @@
 
 <h2 align="left">📫 How to reach me</h2>
 <p align="left">
-  You can find me on <a href='https://linkedin.com/in/erik-ngigi' target='_blank'</a>Linkedin
+  You can find me on <a href='https://linkedin.com/in/erik-ngigi' target='_blank'</a>Linkedin or you can contant me via [email](mailto:ericmosesngigi@gmail.com)
 </p>
 
 <h2 align="left">🤝 Collaboration</h2>
