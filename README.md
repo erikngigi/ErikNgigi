@@ -26,7 +26,7 @@ In summary, my primary focus is on learning and growing as a developer while con
 + Web development and programming languages (e.g., Python, JavaScript, HTML/CSS)
 
 <h2 align="left">📫 Find out more about me & feel free to connect with me here: </h2>
-[![Linkedin Badge](https://img.shields.io/badge/-ericngigi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-ngigi/)](https://www.linkedin.com/in/erik-ngigi/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <h2 align="left">🤝 Collaboration</h2>
 
