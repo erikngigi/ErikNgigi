@@ -28,7 +28,7 @@ In summary, my primary focus is on learning and growing as a developer while con
 <h2 align="left">📫 Find out more about me: </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-ngigi/)](https://www.linkedin.com/in/erik-ngigi/)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ericmosesngigi@gmail.com)](mailto:ericmosesngigi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericmosesngigi@gmail.com)](mailto:ericmosesngigi@gmail.com)
 
 <h2 align="left">🤝 Collaboration</h2>
 
