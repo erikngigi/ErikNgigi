@@ -27,12 +27,8 @@ In summary, my primary focus is on learning and growing as a developer while con
 
 <h2 align="left">📫 Find out more about me: </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-ngigi/)](https://www.linkedin.com/in/erik-ngigi/)
+[![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-ngigi/)](https://www.linkedin.com/in/erik-ngigi/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ericmosesngigi@gmail.com)](mailto:ericmosesngigi@gmail.com)
-
-<h2 align="left">⚡ Technologies</h2>
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <h2 align="left">🤝 Collaboration</h2>
 
