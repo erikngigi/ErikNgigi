@@ -40,6 +40,10 @@ In summary, my primary focus is on learning and growing as a developer while con
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
+<h2 align="left">:penguin: Operating System</h2>
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
+
 <h2 align="left">🤝 Collaboration</h2>
 
 <p align="left">I'm always looking for new opportunities to collaborate with like-minded individuals and organizations. If you're interested in working together on an open-source project or have an idea you'd like to discuss, please don't hesitate to reach out!</p>
