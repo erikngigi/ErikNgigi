@@ -2,8 +2,6 @@
 
 <p align="left">I'm a Linux enthusiast and open-source advocate who is passionate about technology and the power of community-driven development. I believe that open-source software is the key to unlocking innovation and empowering individuals and organizations to achieve their goals.</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
-
 <h2 align="left">🔭 What I do</h2>
 
 <p align="left">I'm currently focused on expanding my skills and contributing to the open source community. I'm particularly interested in Natural Language Processing in Artifical Inteligence, serverless computing, containerization and data management with analytics and I'm always looking for new projects to work on and collaborate with others.
@@ -27,9 +25,11 @@ In summary, my primary focus is on learning and growing as a developer while con
 + Cloud computing and virtualization
 + Web development and programming languages (e.g., Python, JavaScript, HTML/CSS)
 
-<h2 align="left">📫 Find out more about me & feel free to connect with me here: </h2>
+<h2 align="left">📫 Find out more about me: </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-erikngigi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-ngigi/)](https://www.linkedin.com/in/erik-ngigi/)
+
+[![Gmail](https://img.shields.io/badge/ericmosesngigi-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ericmosesngigi@gmail.com)](mailto:ericmosesngigi@gmail.com)
 
 <h2 align="left">🤝 Collaboration</h2>
 
