@@ -3,9 +3,9 @@
 Hey there! I'm Eric Ngigi, a Cloud Engineer specializing in AWS, Terraform, Python, and CI/CD. I'm all about building scalable, automated, and resilient cloud infrastructures. Here's what I bring to the table:
 
 # Tools & Technologies
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=arch,aws,bash,docker,go,linux,py,terraform" />
   </a>
 </p>
 
