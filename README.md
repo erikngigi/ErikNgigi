@@ -1,8 +1,8 @@
 # Hi, I'm Eric!
 
-I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my Blog[https://ericngigi.com].
+I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my [Blog](https://ericngigi.com).
 
-# [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) Tools & Technologies
+# [![My Skills](https://skillicons.dev/icons?i=actix&theme=dark)](https://skillicons.dev) Tools & Technologies
 
 <p align="left">
   <a href="https://skillicons.dev">
