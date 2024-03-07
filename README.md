@@ -1,3 +1,5 @@
+![AWS Banner](https://www.servimatica.com.uy/wp-content/uploads/2021/04/banner-logo-aws.png)
+
 # Hi, I'm Eric!
 
 I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my [Blog](https://ericngigi.com).
