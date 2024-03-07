@@ -1,4 +1,4 @@
-![AWS Banner]([https://www.servimatica.com.uy/wp-content/uploads/2021/04/banner-logo-aws.png](https://tudip.com/wp-content/uploads/2019/05/Blog-Header-How-to-configure-unconfigure-Push-Notifications-for-Mobile-platforms-on-AWS-1900x600-1900x600.jpg)
+![AWS Banner](https://tudip.com/wp-content/uploads/2019/05/Blog-Header-How-to-configure-unconfigure-Push-Notifications-for-Mobile-platforms-on-AWS-1900x600-1900x600.jpg)
 
 # Hi, I'm Eric!
 
