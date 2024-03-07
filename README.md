@@ -2,7 +2,7 @@
 
 I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my Blog[https://ericngigi.com].
 
-# (https://skillicons.dev/icons?i=artix)](https://skillicons.dev) Tools & Technologies
+# [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) Tools & Technologies
 
 <p align="left">
   <a href="https://skillicons.dev">
