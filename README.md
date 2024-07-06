@@ -1,13 +1,11 @@
-![AWS Banner](images/github-banner.png)
+I do cloud things using AWS and on [YouTube](https://www.youtube.com/@erikngigi). Visit my [website](https://erikngigi.github.io) to learn more about my work.
 
-# Hi, I'm Eric!
-
-I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on my [Blog](https://ericngigi.com).
+![banner-gif](images/ericngigi-github-cropped.gif)
 
 # :toolbox: Tools & Technologies
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,aws,bash,docker,go,linux,py,terraform&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,aws,bash,docker,linux,py,terraform&theme=dark" />
   </a>
 </p>
